@@ -1,16 +1,22 @@
-# sample_login_flow
+🚀 Features
+✅ Login with email and password
+✅ Register with full name, email, and password
+✅ Validation for empty fields
+✅ Simple Home Page after successful login/registration
+✅ Clean and professional UI
 
-A new Flutter project.
+🛠 Installation & Setup
+1️⃣ Clone the Repository
 
-## Getting Started
+2️⃣ Install Dependencies
 
-This project is a starting point for a Flutter application.
+flutter pub get
 
-A few resources to get you started if this is your first Flutter project:
+3️⃣ Run the App
+Emulator: Start an Android Emulator from Android Studio
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Physical Device: Connect your phone via USB & enable Developer Mode
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Then, run:
+
+flutter run
