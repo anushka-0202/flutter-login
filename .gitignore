@@ -1,0 +1,97 @@
+# Flutter/Dart related files
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Generated files
+flutter_gen/
+generated_plugin_registrant.dart
+
+# Android related files
+android/.gradle/
+android/.idea/
+android/local.properties
+android/app/debug/
+android/app/release/
+android/app/profile/
+android/key.jks  # Keystore file for signing (if used)
+
+# iOS related files
+ios/.symlinks/
+ios/.flutter-plugins
+ios/.flutter-plugins-dependencies
+ios/Flutter/Flutter.podspec
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Generated.xcconfig
+ios/Pods/
+ios/Podfile.lock
+ios/Runner.xcworkspace/
+ios/build/
+ios/DerivedData/
+ios/.last_build_id
+
+# macOS related files
+macos/.symlinks/
+macos/.flutter-plugins
+macos/.flutter-plugins-dependencies
+macos/Flutter/ephemeral/
+macos/build/
+macos/DerivedData/
+
+# Windows related files
+windows/.dart_tool/
+windows/flutter/ephemeral/
+windows/build/
+
+# Linux related files
+linux/.dart_tool/
+linux/flutter/ephemeral/
+linux/build/
+
+# Web related files
+web/.dart_tool/
+web/build/
+
+# IDE (VS Code, IntelliJ, Android Studio)
+.vscode/
+.idea/
+*.iml
+
+# Xcode specific files
+xcuserdata/
+*.xcodeproj/
+*.xcworkspace/
+*.xcconfig
+*.pbxproj
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# System files
+*.DS_Store
+*.log
+*.swp
+*.swo
+*.swn
+*.lock
+
+# Crash reports
+crashlytics-build-id.txt
+firebase_app_id_file.json
+
+# Temporary files
+*.tmp
+*.cache
+*.bak
+
+# Debugging
+debug.log
+error.log
+
+# Custom secret files (Add manually if you use them)
+.env
+secrets.json
+firebase_options.dart
